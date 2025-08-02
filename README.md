@@ -113,5 +113,6 @@ A desktop-based Taxi Booking System built using **Python (Custom Tkinter)** and 
 4. Run the main app:
     python main.py
 
-👨‍💻 Author Made with 💻 by Nirajan Dhungel
+👨‍💻 Author : Nirajan Dhungel
+
 📎 LinkedIn : https://www.linkedin.com/in/nirajan-dhungel/
