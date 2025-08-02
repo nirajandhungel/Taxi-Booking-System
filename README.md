@@ -24,5 +24,8 @@ A desktop-based Taxi Booking System built using **Python (Custom Tkinter)** and 
 
 ---
 
-## 📁 Folder Structure
+## 📁 Screenshots
+
+<img width="1431" height="801" alt="image XIC492" src="https://github.com/user-attachments/assets/dc39f7c9-33fb-4fa8-87d8-6cea455de499" />
+<img width="1314" height="688" alt="image 59U992" src="https://github.com/user-attachments/assets/d56dfe5c-15c4-4a27-a671-93a1f8d55a7b" />
 
